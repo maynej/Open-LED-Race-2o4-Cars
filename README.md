@@ -4,7 +4,7 @@ Capses per control Open LED Race
 
 <img src="Imatges/Capses24.jpg" width="400" />
 
-Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
+Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="OpenLEDrace24cars/Imatges/Logo3senseFons.png" width="50" />
 
 L'objectiu es tenir unes capses lleugeres per incloure la placa de control Arduino i el connexionat.
 
