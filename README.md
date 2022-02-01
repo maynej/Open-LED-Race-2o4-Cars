@@ -8,9 +8,9 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 L'objectiu es tenir unes capses lleugeres per incloure la placa de control Arduino i el connexionat.
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/OpenLEDrace24cars/tree/main/DOC).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
 
-STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/OpenLEDrace24cars/tree/main/STL_SMARTHOME).
+STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL_SMARTHOME).
 
 ## Caspses 3D 
   
