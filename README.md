@@ -10,13 +10,13 @@ L'objectiu es tenir unes capses lleugeres per incloure la placa de control Ardui
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
 
-STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL_SMARTHOME).
+STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL).
 
 ## Caspses 3D 
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-
+Capsa 2 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2 jugadors](OpenLEDrace24cars/STL/CapsaArduinoOpenLedRaceV1.stl)
 
 
 ## Llicència
