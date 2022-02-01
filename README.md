@@ -8,7 +8,9 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 L'objectiu es tenir unes capses lleugeres per incloure la placa de control Arduino i el connexionat.
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
+La [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
+
+El Firmware utilitzat [es pot trobar a](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/Firmware). 
 
 STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL).
 
@@ -17,6 +19,14 @@ STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/O
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Capsa 2 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2 jugadors](OpenLEDrace24cars/STL/CapsaArduinoOpenLedRaceV1.stl)
+Tapa 2 jugadors |![](OpenLEDrace24cars/Imatges/Tapa1.png) | [Tapa 2 jugadors](OpenLEDrace24cars/STL/TapaArduinoOpenLedRaceV1.stl)
+Capsa 4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa2.png) | [Capsa 4 jugadors](OpenLEDrace24cars/STL/Capsa_ArduinoGran4Players.stl)
+Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](OpenLEDrace24cars/STL/TapaArduino4Players.stl)
+
+## Polsadors 3D
+Descripció         | Imatge          | Arxiu         
+------------- | ------------- | ------------- 
+Polsador ergonomic |![](OpenLEDrace24cars/Imatges/Polsador1.png) | [Polsador ergonomic](OpenLEDrace24cars/STL/OpenLedRace_Handle.stl)
 
 
 ## Llicència
