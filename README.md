@@ -8,7 +8,9 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 L'objectiu es tenir unes capses lleugeres per incloure la placa de control Arduino i el connexionat.
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
+La [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
+
+El Firmware utilitzat [es pot trobar a](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/Firmware). 
 
 STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL).
 
