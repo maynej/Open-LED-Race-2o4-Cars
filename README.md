@@ -16,7 +16,7 @@ STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/O
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-
+Capsa 2 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2 jugadors](OpenLEDrace24cars/STL/CapsaArduinoOpenLedRaceV1.stl)
 
 
 ## Llicència
