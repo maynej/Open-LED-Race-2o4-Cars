@@ -10,7 +10,7 @@ L'objectiu es tenir unes capses lleugeres per incloure la placa de control Ardui
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/DOC).
 
-STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL_SMARTHOME).
+STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/OpenLEDrace24cars/STL).
 
 ## Caspses 3D 
   
