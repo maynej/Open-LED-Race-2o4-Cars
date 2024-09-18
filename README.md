@@ -28,6 +28,8 @@ Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Polsador ergonomic |![](OpenLEDrace24cars/Imatges/Polsador1.png) | [Polsador ergonomic](OpenLEDrace24cars/STL/OpenLedRace_Handle.stl)
 
+## QR
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FOpenLEDrace24Cars&s=6&e=m"/>
 
 ## Llicència
 
