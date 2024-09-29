@@ -18,8 +18,8 @@ STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/O
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Capsa 2 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2 jugadors](OpenLEDrace24cars/STL/CapsaArduinoOpenLedRaceV1.stl)
-Tapa 2 jugadors |![](OpenLEDrace24cars/Imatges/Tapa1.png) | [Tapa 2 jugadors](OpenLEDrace24cars/STL/TapaArduinoOpenLedRaceV1.stl)
+Capsa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2/4 jugadors](OpenLEDrace24cars/STL/CapsaArduinoOpenLedRaceV1.stl)
+Tapa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa1.png) | [Tapa 2/4 jugadors](OpenLEDrace24cars/STL/TapaArduinoOpenLedRaceV1.stl)
 Capsa 4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa2.png) | [Capsa 4 jugadors](OpenLEDrace24cars/STL/Capsa_ArduinoGran4Players.stl)
 Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](OpenLEDrace24cars/STL/TapaArduino4Players.stl)
 
