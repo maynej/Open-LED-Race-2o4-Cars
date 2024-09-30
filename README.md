@@ -16,7 +16,7 @@ STL per imprimir [aquí](https://github.com/maynej/OpenLEDrace24cars/tree/main/O
 
 ## Caspses 3D 
   
-Descripció         | Imatge          | Arxiu         
+Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
 Capsa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2/4 jugadors](OpenLEDrace24cars/STL/CapsaArduinoOpenLedRaceV1.stl)
 Tapa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa1.png) | [Tapa 2/4 jugadors](OpenLEDrace24cars/STL/TapaArduinoOpenLedRaceV1.stl)
