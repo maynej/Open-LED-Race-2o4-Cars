@@ -2,7 +2,7 @@
 
 Capses per control Open LED Race 
 
-<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="400" />
+<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="300" />
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="OpenLEDrace24cars/Imatges/Logo3senseFons.png" width="50" />
 
@@ -22,6 +22,7 @@ Capsa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2/4 jugad
 Tapa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa1.png) | [Tapa 2/4 jugadors](OpenLEDrace24cars/STL/TapaArduinoOpenLedRaceV1.stl)
 Capsa 4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa2.png) | [Capsa 4 jugadors](OpenLEDrace24cars/STL/Capsa_ArduinoGran4Players.stl)
 Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](OpenLEDrace24cars/STL/TapaArduino4Players.stl)
+Suport Loop |![](OpenLEDrace24cars/Imatges/SuportLoopOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportLoopOLR.stl)
 
 ## Polsadors 3D
 Descripció         | Imatge          | Arxiu         
