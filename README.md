@@ -27,7 +27,7 @@ Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](Op
 Suport Loop |![](OpenLEDrace24cars/Imatges/SuportLoopOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportLoopOLR.stl)
 
 ## Polsadors 3D
-Descripció         | Imatge          | Arxiu         
+Descripció         | Imatge          | Arxiu STL          
 ------------- | ------------- | ------------- 
 Polsador ergonomic |![](OpenLEDrace24cars/Imatges/Polsador1.png) | [Polsador ergonomic](OpenLEDrace24cars/STL/OpenLedRace_Handle.stl)
 
