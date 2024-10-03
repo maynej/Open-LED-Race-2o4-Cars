@@ -1,8 +1,8 @@
 # OpenLEDrace-2-4-Cars
 
-Capses per control i Loop per Open LED Race 
+Capses per control i Loop per Open LED Race <img src="OpenLEDrace24cars/Imatges/LogoPNG.png" width="200" />
 
-<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="300" />  <img src="OpenLEDrace24cars/Imatges/LogoPNG.png" width="150" />
+<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="300" />  
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="OpenLEDrace24cars/Imatges/Logo3senseFons.png" width="50" />
 
