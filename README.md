@@ -2,9 +2,11 @@
 
 Capses per control i Loop per Open LED Race 
 
-<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="300" />
+<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="300" />  <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="300" />
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="OpenLEDrace24cars/Imatges/Logo3senseFons.png" width="50" />
+
+Web Open LED Race: (http://openledrace.net/?lang=es) 
 
 L'objectiu es tenir unes capses lleugeres per incloure la placa de control Arduino i el connexionat. També un suport per el Loop.
 
