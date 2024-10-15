@@ -2,7 +2,8 @@
 
 Capses per control i Loop per Open LED Race <img src="OpenLEDrace24cars/Imatges/LogoPNG.png" width="200" />
 
-<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="230" />  
+<img src="OpenLEDrace24cars/Imatges/Capses24.jpg" width="300" /> <img src="OpenLEDrace24cars/Imatges/Loop.jpg" width="230" />  <img src="OpenLEDrace24cars/Imatges/Bridge.jpg" width="230" />  
+
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="OpenLEDrace24cars/Imatges/Logo3senseFons.png" width="50" />
 
@@ -30,8 +31,8 @@ Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](Op
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
 Suport Loop |![](OpenLEDrace24cars/Imatges/SuportLoopOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportLoopOLR.stl)
-Suport Bridge 1 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportBridgeOLR1.stl)
-Suport Bridge 2 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportBridgeOLR2.stl)
+Suport Bridge 1 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR.png) | [Suport Bridge 1](OpenLEDrace24cars/STL/SuportBridgeOLR1.stl)
+Suport Bridge 2 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR.png) | [Suport Bridge 2](OpenLEDrace24cars/STL/SuportBridgeOLR2.stl)
 
 
 
