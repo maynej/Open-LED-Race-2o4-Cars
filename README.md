@@ -31,8 +31,8 @@ Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](Op
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
 Suport Loop |![](OpenLEDrace24cars/Imatges/SuportLoopOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportLoopOLR.stl)
-Suport Bridge 1 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR2.png) | [Suport Bridge 1](OpenLEDrace24cars/STL/SuportBridgeOLR1.stl)
-Suport Bridge 2 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR3.png) | [Suport Bridge 2](OpenLEDrace24cars/STL/SuportBridgeOLR2.stl)
+Suport Bridge 1 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR1.png) | [Suport Bridge 1](OpenLEDrace24cars/STL/SuportBridgeOLR1.stl)
+Suport Bridge 2 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR2.png) | [Suport Bridge 2](OpenLEDrace24cars/STL/SuportBridgeOLR2.stl)
 
 
 
