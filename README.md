@@ -24,7 +24,16 @@ Capsa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa1.png) | [Capsa 2/4 jugad
 Tapa 2/4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa1.png) | [Tapa 2/4 jugadors](OpenLEDrace24cars/STL/TapaArduinoOpenLedRaceV1.stl)
 Capsa 4 jugadors |![](OpenLEDrace24cars/Imatges/Capsa2.png) | [Capsa 4 jugadors](OpenLEDrace24cars/STL/Capsa_ArduinoGran4Players.stl)
 Tapa 4 jugadors |![](OpenLEDrace24cars/Imatges/Tapa2.png) | [Tapa 4 jugadors](OpenLEDrace24cars/STL/TapaArduino4Players.stl)
+
+## Loops & bridges  
+  
+Descripció         | Imatge          | Arxius STL         
+------------- | ------------- | ------------- 
 Suport Loop |![](OpenLEDrace24cars/Imatges/SuportLoopOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportLoopOLR.stl)
+Suport Bridge 1 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportBridgeOLR1.stl)
+Suport Bridge 2 |![](OpenLEDrace24cars/Imatges/SuportBridgeOLR.png) | [Suport Loop](OpenLEDrace24cars/STL/SuportBridgeOLR2.stl)
+
+
 
 ## Polsadors 3D
 Descripció         | Imatge          | Arxiu STL          
